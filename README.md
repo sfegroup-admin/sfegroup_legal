@@ -1,7 +1,7 @@
 # Agora Legal
 
 Terms of Use
-Last updated: 2024-01-22
+Last updated: 2024-06-24
 
 Please read these Terms of Use ("Terms", "Terms of Use") carefully before using the events service provided at https://quanticapital.org (the Service), operated by Agora, Inc.
 
